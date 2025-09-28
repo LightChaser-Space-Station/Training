@@ -1,2 +1,6 @@
-# Training
-This is a document to record training task.
+<div align="center">
+
+# ☀️ 追光空间站 · 培训手册  
+### *LightChaser Space Station · Training Guide*  
+
+---
