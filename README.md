@@ -3,7 +3,8 @@
 # ☀️ 追光空间站 · 培训手册  
 ### *LightChaser Space Station · Training Guide*  
 
----## 🌟 第一期培训 · 自主抉择
+---
+## 🌟 第一期培训 · 自主抉择
 
 0. ChatGPT —— 学会提问与高效使用  
 1. Git —— 注册 GitHub，加入组织，在 *Our-story* 留痕  
