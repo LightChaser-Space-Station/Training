@@ -1,63 +1,103 @@
 <div align="center">
 
-# ☀️ 追光空间站 · 培训手册  
-### *LightChaser Space Station · Training Guide*  
+
+# ☀️ 追光空间站 · 培训手册
+### *LightChaser Space Station · Training Guide*
+
 
 ---
+
 ## 🌟 第一期培训 · 自主抉择
 
-> 📖 *你可以根据兴趣自由选择方向，每一步都是逐光的开始。*  
+> 📖 *你可以根据兴趣自由选择方向，每一步都是逐光的开始。*
 
 ---
 
-### 0. ChatGPT 🚀  
-- [ ] **安装**  
-- [ ] 学会提问与高效利用  
+## 📚 目录导航
+
+1. [ChatGPT 基础 🚀](#chatgpt-基础)
+2. [Git 入门 🐙](#git-入门)
+3. [Linux 入门 🐧](#linux-入门)
+4. [Python 入门 🐍](#python-入门)
+5. [嵌入式入门 ⚡](#嵌入式入门)
+6. [ROS 入门 🤖](#ros-入门)
+7. [深度学习入门 🧠](#深度学习入门)
+8. [图像处理入门 👁️](#图像处理入门)
 
 ---
 
-### 1. Git 入门 🐙  
-- [ ] 注册 & 登录 **GitHub**  
-- [ ] 加入组织，在 **Our-story** 仓库的 `README.md` 中留下印记  
+## 推荐学习路径
+
+> 建议先完成 ChatGPT、Git、Linux、Python 基础，再根据兴趣选择后续方向。
 
 ---
 
-### 2. Linux 入门 🐧  
-- [ ] 安装 **Ubuntu**  
-- [ ] 学习基础命令（文件操作、进程管理等）  
-- [ ] 安装 **Miniconda**  
+### 0. ChatGPT 基础 🚀
+**目标：** 学会高效提问与利用 AI 工具
+
+- 安装 ChatGPT
+- 学会提问与高效利用
 
 ---
 
-### 3. Python 入门 🐍  
-- [ ] 安装 **VSCode** + Python 插件  
-- [ ] 安装 **Miniconda** 并创建虚拟环境  
-- [ ] 编写 *Hello World* 程序  
+### 1. Git 入门 🐙
+**目标：** 掌握代码管理与协作
+
+- 注册 & 登录 GitHub
+- 加入组织，在 Our-story 仓库的 `README.md` 中留下印记
 
 ---
 
-### 4. 嵌入式入门 ⚡  
-- [ ] 夯实 **C语言** 基础（VSCode *推荐* / 其他 IDE）  
-- [ ] 在 **洛谷** 完成 1–2 道入门练习题  
+### 2. Linux 入门 🐧
+**目标：** 熟悉 Linux 环境与基础命令
+
+- 安装 Ubuntu
+- 学习基础命令（文件操作、进程管理等）
+- 安装 Miniconda
 
 ---
 
-### 5. ROS 入门 🤖  
-- [ ] 在 Ubuntu 上安装 ROS  
-- [ ] 使用 **鱼香ROS一键安装脚本** 完成环境配置  
+### 3. Python 入门 🐍
+**目标：** 掌握 Python 编程基础
+
+- 安装 VSCode + Python 插件
+- 安装 Miniconda 并创建虚拟环境
+- 编写 Hello World 程序
 
 ---
 
-### 6. 深度学习入门 🧠（建议先完成 Python 入门）  
-- [ ] 安装 **Miniconda** (Win/Linux)  
-- [ ] 阅读 [动手学深度学习](https://zh.d2l.ai/chapter_introduction/index.html) 入门章节  
+### 4. 嵌入式入门 ⚡
+**目标：** 夯实 C 语言基础，了解嵌入式开发
+
+- 夯实 C语言 基础（VSCode 推荐 / 其他 IDE）
+- 在 洛谷 完成 1–2 道入门练习题
 
 ---
 
-### 7. 图像处理入门 👁️（建议先完成 Python 入门）  
-- [ ] 安装 **Miniconda** (Win/Linux)  
-- [ ] 使用 `pip install opencv-python` 安装 OpenCV  
-- [ ] 尝试加载并显示一张图片  
+### 5. ROS 入门 🤖
+**目标：** 掌握机器人操作系统基础
+
+- 在 Ubuntu 上安装 ROS
+- 使用 鱼香ROS一键安装脚本 完成环境配置
+
+---
+
+### 6. 深度学习入门 🧠
+**目标：** 入门深度学习理论与实践
+> 建议先完成 Python 入门
+
+- 安装 Miniconda (Win/Linux)
+- 阅读 [动手学深度学习](https://zh.d2l.ai/chapter_introduction/index.html) 入门章节
+
+---
+
+### 7. 图像处理入门 👁️
+**目标：** 掌握基础图像处理技能
+> 建议先完成 Python 入门
+
+- 安装 Miniconda (Win/Linux)
+- 使用 `pip install opencv-python` 安装 OpenCV
+- 尝试加载并显示一张图片
 
 ---
 
