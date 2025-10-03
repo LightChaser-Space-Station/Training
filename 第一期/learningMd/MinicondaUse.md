@@ -29,7 +29,7 @@ _选择 Miniconda，如果：_
 ꔷ3.你的项目依赖于复杂的、难以编译的库 (如 PyTorch, TensorFlow, GDAL)。
 
 ꔷ4.你希望在不同操作系统间获得高度一致的开发环境。
-
+注意！！！：以下教程基于Linux，Windows比较简单，自行去哔哩哔哩查看相关视频，不会记得问学长！
 ```bash
 #  下载miniconda安装包
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
