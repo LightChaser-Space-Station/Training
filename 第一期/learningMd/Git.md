@@ -135,7 +135,7 @@ git push
 
 - 1.检查提交时有没有写更改信息！
 - 2.尝试这两种代理设置方式
-    * https://zhuanlan.zhihu.com/p/648164862（推荐是开着梯子用这个）*
+    * https://zhuanlan.zhihu.com/p/648164862（推荐是开着梯子用这个，里面具体的端口可以在梯子里找）
     * https://cooper0098.github.io/posts/%E8%A7%A3%E5%86%B3vscode%E7%9A%84git%E6%8F%90%E4%BA%A4%E9%97%AE%E9%A2%98/ *
 
 - 3.还不行就去问！！！
